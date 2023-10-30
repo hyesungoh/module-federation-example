@@ -1,0 +1,7 @@
+{
+  "name": "module-federation-example",
+  "version": "1.0.0",
+  "repository": "https://github.com/hyesungoh/module-federation-example.git",
+  "author": "hyesungoh <haesungoh414@gmail.com>",
+  "license": "MIT"
+}
